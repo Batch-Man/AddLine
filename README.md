@@ -10,3 +10,4 @@ AUTHOR:	**Kvc**
 
 ​	Examples: 		AddLine "Demo.txt" 5 "This is a Test"
 
+Article- https://batch-man.com/manipulate-files-line-in-batch/
